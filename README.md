@@ -1,0 +1,1 @@
+# smart-switch-for-home-automation
