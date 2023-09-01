@@ -74,7 +74,7 @@ After considering expandability, manufacturability and esthetics aspects initial
 </p>
 
 ## Interface
-The user interface is designed with a seamless blend of touch buttons for manual control and a user-friendly web page for remote access network configuration. 
+The user interface is designed with a seamless blend of touch buttons for manual control and a user-friendly web page for remote access and network configuration. 
 <p align="center">
 <img width="35%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/bd5a3aa1-85b7-4484-945f-14315d0df0c9" />
 </p>
