@@ -1,3 +1,10 @@
+# Smart Switch for Home Automation
+
+<p align="center">
+<img src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/9bbdbe02-04bf-4845-9322-24b7d07aa13b" width ="50%"/>
+</p>
+
+## Reqirements
 This is an ESP32-based smart switch project designed to address the requirement for a convenient method to automate regular home appliances, especially in compact spaces like individual rooms. The following were considered basic needs that should be satisfied by the solution.<br>
   •	Should be able to control remotely.<br>
   •	Should be compatible with existing home appliances.<br>
