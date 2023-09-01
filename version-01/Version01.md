@@ -6,7 +6,7 @@
 
 ## Block Diagram
 <p  align="center">
-<img src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/a2c598d2-b17d-406b-b23f-8807925369f4" width="75%" />
+<img src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/a2c598d2-b17d-406b-b23f-8807925369f4" width="65%" />
 </p>
 
 ## component selection
@@ -41,29 +41,29 @@ After comparing several alternatives, the following components were selected. Th
 
 ## Schematic Design
 <p align="center">
-<img width="75%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/4c738e9e-342e-4ff3-8e73-abccbfc08be7" />
-<img width="75%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/17e704f1-f19b-4a37-86a8-8e3c86f14e0e" />
+<img width="65%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/4c738e9e-342e-4ff3-8e73-abccbfc08be7" />
+<img width="65%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/17e704f1-f19b-4a37-86a8-8e3c86f14e0e" />
 </p>
 
 ## PCB Layout
 <p align="center">
-<img width ="75%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/572475b5-7ae7-4a01-a0a0-3d669f5fab98"/>
+<img width ="55%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/572475b5-7ae7-4a01-a0a0-3d669f5fab98"/>
 </p>
 
 ### Top Layer
 <p align="center">
-<img width ="75%" src=https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/feddea3c-755d-482b-a493-c083f2a8d2b6"/>
+<img width ="55%" src=https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/feddea3c-755d-482b-a493-c083f2a8d2b6"/>
 </p>
 
 ### Bottom Layer
 <p align="center">
-<img width="75%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/65f3a132-dff9-43c8-9fa7-5ef9db750afb"/>
+<img width="55%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/65f3a132-dff9-43c8-9fa7-5ef9db750afb"/>
 </p>
 
 ## Enclosure
 Initial enclosure design is as follows. 
 <p align="center">
-<img width="75%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/f33489e4-6ab1-4dd7-a6f6-934a0c7508de" />
+<img width="55%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/f33489e4-6ab1-4dd7-a6f6-934a0c7508de" />
 </p>
 
 After considering expandability, manufacturability and esthetics aspects initial designs were revised.
@@ -76,6 +76,6 @@ After considering expandability, manufacturability and esthetics aspects initial
 ## Interface
 The user interface is designed with a seamless blend of touch buttons for manual control and a user-friendly web page for remote access. 
 <p align="center">
-<img width="40%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/bd5a3aa1-85b7-4484-945f-14315d0df0c9" />
+<img width="35%" src="https://github.com/Tharusha-Sihan/smart-switch-for-home-automation/assets/116502446/bd5a3aa1-85b7-4484-945f-14315d0df0c9" />
 </p>
 
